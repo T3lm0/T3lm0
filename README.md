@@ -11,7 +11,7 @@ I am a final-year Computer Engineering student at the University of Extremadura 
 - 🐳 Enthusiast of Docker and container technologies
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3lm0&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=T3lm0&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 ## Technologies & Tools
 
