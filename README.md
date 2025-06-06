@@ -33,4 +33,4 @@ Feel free to explore my repositories and connect with me!
 
 [![Email Me](https://img.shields.io/badge/Email-telmo.clemente.serrano-blue?style=for-the-badge&logo=gmail)](mailto:telmo.clemente.serrano@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T3lm0&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://streak-stats.demolab.com?user=T3lm0&theme=cobalt&hide_border=true)
