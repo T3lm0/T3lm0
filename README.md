@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Telmo</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Telmo</h1>
 
 <p align="center">
   🎓 Final-year Computer Engineering student at <strong>University of Extremadura (UEX)</strong>  
@@ -30,12 +30,11 @@
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,discord,docker,npm,github,html,linux,md,py,opencv,vscode,clion,qt,ps,&perline=14" />
+  </a>
+</p>
 
 ---
 
@@ -56,3 +55,6 @@
 ---
 
 ✨ *Feel free to explore my repositories, check my projects, and connect with me!*
+
+---
+🛡️ This profile README is open-source. Feel free to use or fork it for inspiration.
