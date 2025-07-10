@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎓 Final-year student in **Computer Engineering** at UEX  
-- 🤖 Strong interest in **Artificial Intelligence** and **autonomous systems**  
+- 🤖 Strong interest in **Machine Learning**, **AI** and **autonomous systems**  
 - 🐳 Enthusiast of **Docker** and container-based development  
 - 💻 Experience with:
   - **Python**
@@ -24,7 +24,6 @@
 
 - 🐍 **Python** – scripting, data analysis, and machine learning  
 - 💠 **C++** – high-performance algorithms and systems programming  
-- 🐚 **Bash** – automation and DevOps scripting  
 
 ---
 
